@@ -3,3 +3,5 @@ Howdy!
   Nonetheless, here are my attempts!
   
   Check out my [website!](https://www.zapien.dev/)
+
+  If you want to look into projects I've completed, feel free to check out my [knowledge repository / documentation website!](https://docs.zapien.dev/)
